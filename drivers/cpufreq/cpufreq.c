@@ -33,7 +33,7 @@
 #include <trace/events/power.h>
 
 //KT Specifics
-int GLOBALKT_MIN_FREQ_LIMIT = 378000;
+int GLOBALKT_MIN_FREQ_LIMIT = 81000;
 int GLOBALKT_MAX_FREQ_LIMIT = 1890000;
 
 static unsigned int vfreq_lock = 0;
